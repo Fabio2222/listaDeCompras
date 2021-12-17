@@ -1,0 +1,10 @@
+C:\Users\Fabio\source\repos\Lista de compras\Lista de compras\bin\Debug\Lista de compras.exe.config
+C:\Users\Fabio\source\repos\Lista de compras\Lista de compras\bin\Debug\Lista de compras.exe
+C:\Users\Fabio\source\repos\Lista de compras\Lista de compras\bin\Debug\Lista de compras.pdb
+C:\Users\Fabio\source\repos\Lista de compras\Lista de compras\obj\Debug\Lista de compras.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\Lista de compras\Lista de compras\obj\Debug\Lista_de_compras.Form1.resources
+C:\Users\Fabio\source\repos\Lista de compras\Lista de compras\obj\Debug\Lista_de_compras.Properties.Resources.resources
+C:\Users\Fabio\source\repos\Lista de compras\Lista de compras\obj\Debug\Lista de compras.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\Lista de compras\Lista de compras\obj\Debug\Lista de compras.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\Lista de compras\Lista de compras\obj\Debug\Lista de compras.exe
+C:\Users\Fabio\source\repos\Lista de compras\Lista de compras\obj\Debug\Lista de compras.pdb
